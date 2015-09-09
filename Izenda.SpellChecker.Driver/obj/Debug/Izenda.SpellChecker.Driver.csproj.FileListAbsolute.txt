@@ -1,0 +1,15 @@
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\en_US.aff
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\en_US.dic
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Hunspellx64.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Hunspellx86.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Izenda.SpellChecker.Driver.exe
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Izenda.SpellChecker.Driver.pdb
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Izenda.SpellChecker.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\NHunspell.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Newtonsoft.Json.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Izenda.SpellChecker.pdb
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\NHunspell.pdb
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\bin\Debug\Newtonsoft.Json.xml
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\obj\Debug\Izenda.SpellChecker.Driver.csprojResolveAssemblyReference.cache
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\obj\Debug\Izenda.SpellChecker.Driver.exe
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker.Driver\obj\Debug\Izenda.SpellChecker.Driver.pdb

@@ -1,0 +1,12 @@
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\en_US.aff
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\en_US.dic
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Hunspellx64.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Hunspellx86.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Izenda.SpellChecker.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Izenda.SpellChecker.pdb
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Newtonsoft.Json.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\NHunspell.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\Newtonsoft.Json.xml
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\bin\Debug\NHunspell.pdb
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\obj\Debug\Izenda.SpellChecker.dll
+C:\tfs-source\Sandbox\Izenda.SpellChecker\Izenda.SpellChecker\obj\Debug\Izenda.SpellChecker.pdb
